@@ -1,6 +1,6 @@
 India-Rainfall-Analysis-PowerBI/
 │
-├── README.md
+├── README.txt
 │
 ├── Dashboard/
 │   └── India_Rainfall_Analysis.pbix
